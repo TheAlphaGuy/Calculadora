@@ -1,0 +1,44 @@
+.btn h4 {
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+.btn-outline-dark {
+    border-color: aqua !important; 
+    border-width: 4px !important;
+    background-color: rgb(73, 73, 73) !important;
+}
+.btn-outline-dark:hover {
+    border-color: rgb(77, 77, 77) !important; 
+    border-width: 4px !important;
+    background-color: rgb(20, 20, 20) !important;
+}
+h1{
+    color: #ffffff !important;
+}
+h5{
+    color: #ffffff !important;
+}
+#resultado{
+    color: azure;
+}
+.upper{
+    display: flex;
+    justify-content: center;
+    padding: 10px !important; 
+}
+
+.text-menu {
+    padding: 10px;
+}
+
+#id{
+color: #ffffff !important;
+}
+.container{
+    justify-content: center !important;
+    align-items: center !important;
+}
+body{
+    justify-content: center !important;
+    align-items: center !important;
+}
